@@ -38,3 +38,4 @@ https://sequelize.org/docs/v6/core-concepts/model-basics/
 `npm install dotenv`
 ### instalar o JsonWebToken ( JWT )
 `npm install jsonwebtoken`# Api_Escola---S12FMT
+# Api_Escola---S12FMT
