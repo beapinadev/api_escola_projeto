@@ -39,3 +39,4 @@ https://sequelize.org/docs/v6/core-concepts/model-basics/
 ### instalar o JsonWebToken ( JWT )
 `npm install jsonwebtoken`# Api_Escola---S12FMT
 # Api_Escola---S12FMT
+# api_escola_projeto
